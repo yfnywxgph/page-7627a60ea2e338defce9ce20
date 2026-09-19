@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6bcc09d13bdbbfea051c0d7d",
+  "owner": "yfnywxgph",
+  "repo": "page-7627a60ea2e338defce9ce20",
+  "title": "TAG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7627a60ea2e338defce9ce20",
+      "a": "TAG",
+      "b": "小火箭机场推荐",
+      "entity": "TAG",
+      "brand": "TAG",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1b95ab79ad36beb5b5d9fca4d29127d59a5a54ff2de88a5265dda2737fa98704",
+      "content": {
+        "primary_entity": "TAG",
+        "keyword1": "TAG",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端、移动端各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 TAG 加速",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并带 IPLC 专线优化，团队版每月 1000GB 支持 20 台设备，可按年付节省费用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和专线优化三个角度匹配不同使用场景。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻度使用，每月 100GB 流量、3 台设备同时在线，可满足日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供每月 300GB 流量、5 台设备在线，全节点原生流媒体解锁与 IPLC 专线游戏加速，适合多设备用户。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 高带宽节点与企业定制路由，适合小团队协作。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "多设备均衡",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "三步完成从选服务到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "TAG 是面向中文用户的海外加速器，提供多档套餐与客户端订阅配置。选择套餐时可比较流量、设备数量和节点类型，再按设备系统安装对应客户端并导入订阅，即可日常使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅加速选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "桌面与移动客户端各自适配",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数和流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数和节点类型，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认常用设备系统有对应客户端版本，并留意同时在线设备上限。",
+          "AI_STEP_TEXT_3": "在设备上安装对应客户端，依照客户端文档导入订阅配置，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "TAG 海外加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "主要差别在流量、设备数与线路：基础版每月 100GB、3 台设备、普通线路；旗舰版每月 300GB、5 台设备、IPLC 专线并优化游戏加速。",
+          "AI_FAQ_QUESTION_2": "同一时间可以在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_2": "可以，但同时在线设备数受套餐限制，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量会导致新设备无法连接。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按十个月计价，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、20 台设备同时在线，并提供 VIP 高带宽节点与企业定制路由，适合小团队或有多设备协作需求的用户。",
+          "AI_FAQ_QUESTION_5": "订阅导入后如何切换节点？",
+          "AI_FAQ_ANSWER_5": "在客户端节点列表中选择目标地区或线路即可，旗舰版可按需选用 IPLC 专线节点，团队版可选用 VIP 专属节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1fbf73febb3bfb3e4156a94c9e3de0dfd87e5cfa51599a1864c0cd8c0c045919",
+    "sitemap.xml": "932d666f4e9ff5d7eb9e39aa807dcd7cdcf7e79711ac34e9155a4f41a67965f6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f13450e73c2766d5b6b774a011b87fdfce72e2d9b807ec29dca6bbb3d042c58e"
+}
